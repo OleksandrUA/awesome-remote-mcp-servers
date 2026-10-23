@@ -3816,7 +3816,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Zillow listings and property details: price, Zestimate, rent estimate, history, schools, agents.
 - [ZVG Einfach](https://zvg-einfach.de/fuer-unternehmen/mcp-docs) `https://mcp.zvg-einfach.de/mcp`
   [![ZVG Einfach MCP connector](https://glama.ai/mcp/connectors/de.zvg-einfach/zvg-einfach/badges/score.svg)](https://glama.ai/mcp/connectors/de.zvg-einfach/zvg-einfach)
-  🔓 🔑 - Search German foreclosure auctions (Zwangsversteigerungen) with AI analysis; free sandbox key for Sachsen-Anhalt.
+  🔑 - Search German foreclosure auctions (Zwangsversteigerungen) with AI analysis; free sandbox key for Sachsen-Anhalt.
 ### 🚗 <a name="sales"></a>Sales
 
 - [Alion](https://alion.io/developers/agents) `https://alion.io/mcp`
